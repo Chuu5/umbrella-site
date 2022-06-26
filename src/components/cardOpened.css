@@ -63,3 +63,16 @@ svg {
     cursor: pointer;
     fill: #4C3575;
 }
+
+
+@media (max-width:600px) {
+    .flex {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .left-side {
+        border-right: none;
+        border-bottom: 1px solid grey;
+    }
+}
