@@ -1,0 +1,68 @@
+{
+    "characters": [
+        {
+            "id": 1,
+            "name": "Luther Hargreeves",
+            "image": "https://i.pinimg.com/originals/92/aa/f7/92aaf78faa859108baf28c5dc02198b5.jpg",
+            "codename": "No. 1",
+            "played_by": "Tom Hopper",
+            "power": "Basically, Super Strength"
+        },
+        {
+            "id": 2,
+            "name": "Diego Hargreeves",
+            "image": "https://static.wikia.nocookie.net/deadliestfiction/images/5/57/DiegoProfile.jpg",
+            "codename": "No. 2",
+            "played_by": "David Castañeda",
+            "power": "Can change the trajectory of projectiles, He use this usually to throw knives"
+        },
+        {
+            "id": 3,
+            "name": "Allison Hargreeves",
+            "image": "https://preview.redd.it/7j1xcggjjlu61.jpg?width=1414&format=pjpg&auto=webp&s=e0e4ead162327b9e4934fad999cbdf34f005c14c",
+            "codename": "No. 3",
+            "played_by": "Emmy Raver-Lampman",
+            "power": "Mind control, She say the classic phrase 'I heard a rumor' and the order after that"
+        },
+        {
+            "id": 4,
+            "name": "Klaus Hargreeves",
+            "image": "https://images.8tracks.com/cover/i/013/304/514/Log_in-9703.png?rect=0,0,640,640&q=98&fm=jpg&fit=max&w=960&h=960",
+            "codename": "No. 4",
+            "played_by": "Robert Sheehan",
+            "power": "He can see, speak and materialize the deads, furthermore he can let some spirit possess he body if he want to"
+        },
+        {
+            "id": 5,
+            "name": "Five",
+            "image": "https://pbs.twimg.com/media/D0w3cRWWkAESYVi.jpg",
+            "codename": "No. 5",
+            "played_by": "Aidan Gallagher",
+            "power": "He can jump in the space and time, it's like a teleport or something like that, furthermore he can time travel too (but not very consistent)"
+        },
+        {
+            "id": 6,
+            "name": "Ben Hargreeves",
+            "image": "https://i.pinimg.com/564x/e5/49/6b/e5496b04b5d2d10cd2a3c00da04f1489.jpg",
+            "codename": "No. 6",
+            "played_by": "Justin H. Min",
+            "power": "All he can do is a totally mystery yet, but for now we know that he can make appear tentacles of the stomach and control they"
+        },
+        {
+            "id": 7,
+            "name": "Vanya Hargreeves",
+            "image": "https://i.pinimg.com/564x/e5/49/6b/e5496b04b5d2d10cd2a3c00da04f1489.jpg",
+            "codename": "No. 7",
+            "played_by": "Elliot Page",
+            "power": "She is probably one of more strongest character in the serie, her power is based in converting sound into energy"
+        },
+        {
+            "id": 8,
+            "name": "Reginald Hargreeves",
+            "image": "https://static1.purebreak.com.br/articles/1/10/74/21/@/474153--the-umbrella-academy-reginald-hargree-700x700-1.jpg",
+            "codename": "None",
+            "played_by": "Colm Feore",
+            "power": "Besides be an alien, he has no powers"
+        }
+    ]
+}
