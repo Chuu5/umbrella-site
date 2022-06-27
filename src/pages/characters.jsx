@@ -48,7 +48,7 @@ function characters() {
                 </Link>
 
                 <Link to="/characters/7">
-                    <Card image={"https://i.pinimg.com/564x/e5/49/6b/e5496b04b5d2d10cd2a3c00da04f1489.jpg"}
+                    <Card image={"https://soundvenue.com/wp-content/uploads/2020/12/TUA_205_Unit_03479RC2-920x920.jpg"}
                     name="Vanya Hargreeves"
                     />
                 </Link>
