@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import Home from './pages/home'
 import Nav from "./components/navbar"
 import CardOpened from "./components/cardOpened"
@@ -13,7 +13,7 @@ const array = data.characters;
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <BrowserRouter>
+  <HashRouter>
     <Routes>
       <Route path='/' element={<Nav />} >
         <Route path='/' element={<Home />} />
@@ -27,5 +27,5 @@ ReactDOM.createRoot(document.getElementById('root')).render(
         }
       </Route>
     </Routes>
-  </BrowserRouter>
+  </HashRouter>
 )
