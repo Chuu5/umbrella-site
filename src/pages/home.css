@@ -38,9 +38,9 @@ section {
     flex-direction: column;
     width: 40%;
     gap: 20px;
-    color: #4C3575;
+    /* color: #4C3575; */
     text-align: center;
-    filter: brightness(1.7);
+    /* filter: brightness(1.7); */
 }
 
 
@@ -50,6 +50,14 @@ section {
 
 .home-text h2 {
     font-size: 50px;
+}
+
+.home-text p,
+.home-text h2 {
+    background: -webkit-linear-gradient(#4C3575, #784BA0 50%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: brightness(1.1);
 }
 
 section .circle {
