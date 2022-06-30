@@ -34,6 +34,11 @@ nav ul {
 nav ul a {
     text-decoration: none;
     color: #51557E;
+    padding: 10px 0;
+}
+
+nav ul a:hover {
+    border-bottom: 2px solid #4C3575;
 }
 
 .openMenu,
@@ -42,7 +47,7 @@ nav ul a {
     border: none;
     cursor: pointer;
     position: absolute;
-    top: 10px;
+    top: 20px;
     right: 10px;
     display: none;
     z-index: 200;
@@ -50,8 +55,8 @@ nav ul a {
 
 .openMenu img,
 .closeMenu img {
-    width: 30px;
-    height: 30px;
+    width: 25px;
+    height: 25px;
 }
 
 @media (max-width:500px) {

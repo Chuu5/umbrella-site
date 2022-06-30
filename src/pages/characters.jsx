@@ -30,7 +30,7 @@ function characters() {
                 </Link>
 
                 <Link to="/characters/4">
-                    <Card image={"https://images.8tracks.com/cover/i/013/304/514/Log_in-9703.png?rect=0,0,640,640&q=98&fm=jpg&fit=max&w=960&h=960"}
+                    <Card image={"https://pbs.twimg.com/media/ESRcIbKXcAAlJxn?format=jpg&name=small"}
                     name="Klaus Hargreeves"
                     />
                 </Link>

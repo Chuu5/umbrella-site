@@ -22,7 +22,11 @@ ReactDOM.createRoot(document.getElementById('root')).render(
         {
           array.map( (characters) => {
             let id = "/characters/" + characters.id;
-            return <Route key={characters.id} path={id} element={<CardOpened name={characters.name} image=  {characters.image} codeName={characters.codename} powers={characters.power} played_by={characters.played_by}/>} />
+            return <Route 
+            key={characters.id} 
+            path={id} 
+            element={<CardOpened name={characters.name} image={characters.image} codeName={characters.codename} powers={characters.power} played_by={characters.played_by}
+            description={characters.description}/>} />
           })
         }
       </Route>

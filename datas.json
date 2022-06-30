@@ -6,7 +6,8 @@
             "image": "https://i.pinimg.com/originals/92/aa/f7/92aaf78faa859108baf28c5dc02198b5.jpg",
             "codename": "No. 1",
             "played_by": "Tom Hopper",
-            "power": "Basically, Super Strength"
+            "power": "Basically, Super Strength",
+            "description": "Luther is a loving, protective and righteous individual. He is shown to immediately throw himself in harm's way and act as a shield in dangerous situations and is shown to have a firm belief in right and wrong."
         },
         {
             "id": 2,
@@ -14,7 +15,8 @@
             "image": "https://static.wikia.nocookie.net/deadliestfiction/images/5/57/DiegoProfile.jpg",
             "codename": "No. 2",
             "played_by": "David Castañeda",
-            "power": "Can change the trajectory of projectiles, He use this usually to throw knives"
+            "power": "Can change the trajectory of projectiles, He use this usually to throw knives",
+            "description": "Diego is a rebellious, impulsive and brash individual with a tendency to show off. However, beneath his confident, cocky behavior lies a deeply insecure individual who desperately wants to prove himself."
         },
         {
             "id": 3,
@@ -22,15 +24,17 @@
             "image": "https://preview.redd.it/7j1xcggjjlu61.jpg?width=1414&format=pjpg&auto=webp&s=e0e4ead162327b9e4934fad999cbdf34f005c14c",
             "codename": "No. 3",
             "played_by": "Emmy Raver-Lampman",
-            "power": "Mind control, She say the classic phrase 'I heard a rumor' and the order after that"
+            "power": "Mind control, She say the classic phrase 'I heard a rumor' and the order after that",
+            "description": "Allison is a determined woman with a kind heart and strong values. She has displayed her kind-heartedness on many occasions, particularly with Vanya."
         },
         {
             "id": 4,
             "name": "Klaus Hargreeves",
-            "image": "https://images.8tracks.com/cover/i/013/304/514/Log_in-9703.png?rect=0,0,640,640&q=98&fm=jpg&fit=max&w=960&h=960",
+            "image": "https://pbs.twimg.com/media/ESRcIbKXcAAlJxn?format=jpg&name=small",
             "codename": "No. 4",
             "played_by": "Robert Sheehan",
-            "power": "He can see, speak and materialize the deads, furthermore he can let some spirit possess he body if he want to"
+            "power": "He can see, speak and materialize the deads, furthermore he can let some spirit possess he body if he want to",
+            "description": "Klaus is a damaged, fragile character who covers his pain with self-deprecating humour and cynical hedonism; and has rebelled against his father by refusing to be the hero he wanted him to be. He plays into the role of an unreliable, unrepentant leech and drug addict, and as a result his opinion is often dismissed by his siblings."
         },
         {
             "id": 5,
@@ -38,7 +42,8 @@
             "image": "https://pbs.twimg.com/media/D0w3cRWWkAESYVi.jpg",
             "codename": "No. 5",
             "played_by": "Aidan Gallagher",
-            "power": "He can jump in the space and time, it's like a teleport or something like that, furthermore he can time travel too (but not very consistent)"
+            "power": "He can jump in the space and time, it's like a teleport or something like that, furthermore he can time travel too (but not very consistent)",
+            "description": "He is shown to have a genius intellect, often dismissing others, including his family, as stupid or inferior, and expressing disinterest in their personal affairs. He is also shown to be sarcastic, pragmatic, and incredibly prideful. "
         },
         {
             "id": 6,
@@ -46,7 +51,8 @@
             "image": "https://i.pinimg.com/564x/e5/49/6b/e5496b04b5d2d10cd2a3c00da04f1489.jpg",
             "codename": "No. 6",
             "played_by": "Justin H. Min",
-            "power": "All he can do is a totally mystery yet, but for now we know that he can make appear tentacles of the stomach and control they"
+            "power": "All he can do is a totally mystery yet, but for now we know that he can make appear tentacles of the stomach and control they",
+            "description": "Ben's usual personality is very stoic because he's always accompanied Klaus, caring and watching over him. This exhausted and drained him. But deep down he is a very happy person who is willing to care for his brother."
         },
         {
             "id": 7,
@@ -54,7 +60,8 @@
             "image": "https://soundvenue.com/wp-content/uploads/2020/12/TUA_205_Unit_03479RC2-920x920.jpg",
             "codename": "No. 7",
             "played_by": "Elliot Page",
-            "power": "She is probably one of more strongest character in the serie, her power is based in converting sound into energy"
+            "power": "She is probably one of more strongest character in the serie, her power is based in converting sound into energy",
+            "description": "Vanya is a kind and bright girl who suffers from deeply rooted trauma. During his childhood, she was neglected by his family and Pogo due to being 'normal'."
         },
         {
             "id": 8,
@@ -62,7 +69,8 @@
             "image": "https://static1.purebreak.com.br/articles/1/10/74/21/@/474153--the-umbrella-academy-reginald-hargree-700x700-1.jpg",
             "codename": "None",
             "played_by": "Colm Feore",
-            "power": "Besides be an alien, he has no powers"
+            "power": "Besides be an alien, he has no powers",
+            "description": "Hargreeves was an incredibly complicated individual. He was cold, distant, and emotionally abusive towards his 'children', treating them more like lab rats than humans."
         }
     ]
 }
