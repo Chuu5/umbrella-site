@@ -22,7 +22,7 @@ function Nav() {
         <>
             <nav>
                 <div className="logo">
-                    <img src="https://logosmarcas.net/wp-content/uploads/2022/01/Umbrella-Academy-Logo.png" alt="" />
+                    <img src="../assets/images/Logo.png" alt="Logo" />
                 </div>
 
                 <div className="menu">
@@ -38,12 +38,12 @@ function Nav() {
 
                 <button className="openMenu"
                 onClick={openMenu}>
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hamburger_icon.svg/2048px-Hamburger_icon.svg.png" alt="" />
+                    <img src="./assets/images/Hamburguer.png" alt="" />
                 </button>
 
                 <button className="closeMenu"
                 onClick={closeMenu}>
-                    <img src="https://icons-for-free.com/download-icon-x-1321215629555778185_512.png" alt="" />
+                    <img src="./assets/images/download-icon-x-1321215629555778185_0.svg" alt="" />
                 </button>
             </nav>
             <Outlet />
